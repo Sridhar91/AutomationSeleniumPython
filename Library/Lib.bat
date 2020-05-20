@@ -1,2 +1,2 @@
-pip install pytest
-pip install selenium
+C:\Users\fa5xktm\AppData\Local\Programs\Python\Python38-32\Scripts\pip.exe install pytest --trusted-host pypi.org --trusted-host files.pythonhosted.org
+C:\Users\fa5xktm\AppData\Local\Programs\Python\Python38-32\Scripts\pip.exe install selenium --trusted-host pypi.org --trusted-host files.pythonhosted.org
